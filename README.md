@@ -7,6 +7,7 @@
 
 ## Linguagens e Ferramentas:
 <p align="center">
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -15,16 +16,18 @@
 </p>
 
 ## Projetos em Destaque
-<!-- Substitua `LINK_PARA_SEU_PROJETO` e `URL_DA_IMAGEM_DO_SEU_PROJETO` pelos seus respectivos links -->
 - [CUPID-ME](LINK_PARA_SEU_PROJETO) - Descrição breve do projeto 1.
 - [Coming soon](LINK_PARA_SEU_PROJETO) - Descrição breve do projeto 2.
 
 ## Entre em Contato
 - 📧 [titobahe@gmail.com](mailto:titobahe@gmail.com)
-- 💼 [LinkedIn](LINK_DO_SEU_LINKEDIN)
-- 🐦 [Twitter](LINK_DO_SEU_TWITTER)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tito-bahe-2a3092278/)
+- 📸 [Instagram](https://www.instagram.com/tito_bahe/)
 
-<!-- Opcional: Seção de Most Used Languages -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoBahe&layout=compact&theme=dark"/>
-</p>
+<!-- GitHub Stats e Most Used Languages lado a lado -->
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=TitoBahe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoBahe&layout=compact&theme=dark"/></td>
+  </tr>
+</table>
