@@ -17,7 +17,7 @@
 
 ## Projetos em Destaque
 - [CUPID-ME](https://github.com/TitoBahe/CUPID-ME-) - Descrição breve do projeto 1.
-- [Coming soon](https://github.com/TitoBahe/Python/blob/main/sitepoint/decoding_url.py) - Descrição breve do projeto 2.
+- [Deconding_with_python](https://github.com/TitoBahe/Python/blob/main/sitepoint/decoding_url.py) - Descrição breve do projeto 2.
 
 ## Entre em Contato
 - 📧 [titobahe@gmail.com](mailto:titobahe@gmail.com)
