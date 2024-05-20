@@ -23,7 +23,6 @@
 <!-- GitHub Stats e Most Used Languages lado a lado -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TitoBahe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoBahe&layout=compact&theme=dark"/></td>
   </tr>
 </table>
