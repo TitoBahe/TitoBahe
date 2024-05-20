@@ -29,7 +29,7 @@
 </table>
 
 ## Projeto em destaque:
-- []
+- [Enviando Mensagens de WhatsApp com a API do Facebook](https://github.com/TitoBahe/Whatsapp_bot_1.0)
 # Enviando Mensagens de WhatsApp com a API do Facebook
 
  <img src="https://github.com/TitoBahe/Whatsapp_bot_1.0/blob/main/mini_monster.jpg" alt="Mini_monster" width="400">
